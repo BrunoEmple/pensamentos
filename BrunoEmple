@@ -1,0 +1,24 @@
+{
+  "app": "MeMotive",
+  "parceiro": "Espaço Acolher",
+  "objetivo": "Ajudar pessoas a encontrarem acolhimento e motivação diariamente.",
+  "sobre": "O Espaço Acolher é um espaço de cuidado e escuta, que oferece apoio psicológico e atividades voltadas ao bem-estar emocional.",
+  "servicos": [
+    "Atendimento psicológico individual",
+    "Grupos de apoio",
+    "Workshops e palestras",
+    "Psicoterapia online"
+  ],
+  "contato": {
+    "email": "contato@espacoacolher.site",
+    "telefone": "(11) 99999-0000",
+    "instagram": "@espacoacolher"
+  },
+  "frases": [
+    "Acredite em si mesmo, você é capaz!",
+    "Cada dia é uma nova oportunidade para recomeçar.",
+    "Você não está sozinho, sempre há alguém disposto a ajudar.",
+    "Pequenos passos também levam a grandes conquistas.",
+    "Sua saúde emocional importa tanto quanto a física."
+  ]
+}
